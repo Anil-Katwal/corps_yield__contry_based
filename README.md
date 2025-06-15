@@ -11,7 +11,7 @@ A machine learning project to predict crop yield based on environmental and agri
 
 ## Project Overview
 
-This project uses a Random Forest regression model trained on crop-related data to predict the expected crop yield for given inputs. It demonstrates key ML concepts including:
+This project uses a decision tree regression model trained on crop-related data to predict the expected crop yield for given inputs. It demonstrates key ML concepts including:
 
 - Handling mixed data types (categorical and numerical features)
 - Preprocessing with `ColumnTransformer` for One-Hot Encoding and Standard Scaling
